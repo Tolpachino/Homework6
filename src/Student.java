@@ -23,7 +23,6 @@ class StudentTest {
         studentFirst.midEconomicGrade = 4.6;
         studentFirst.midLanguageGrade = 5.0;
 
-
         Student studentSecond = new Student();
         studentSecond.studentID = 2;
         studentSecond.name = "Ivan";
